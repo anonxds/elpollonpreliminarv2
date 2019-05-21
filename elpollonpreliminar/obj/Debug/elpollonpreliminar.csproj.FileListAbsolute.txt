@@ -130,3 +130,121 @@ C:\Users\user\Documents\GitHub\elpollonpreliminar-master\elpollonpreliminar\obj\
 C:\Users\user\Documents\GitHub\elpollonpreliminar-master\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CopyComplete
 C:\Users\user\Documents\GitHub\elpollonpreliminar-master\elpollonpreliminar\obj\Debug\elpollonpreliminar.exe
 C:\Users\user\Documents\GitHub\elpollonpreliminar-master\elpollonpreliminar\obj\Debug\elpollonpreliminar.pdb
+G:\elpollonpreliminar\elpollonpreliminar\bin\Debug\Bunifu_UI_v1.52.dll
+G:\elpollonpreliminar\elpollonpreliminar\bin\Debug\Google.Protobuf.dll
+G:\elpollonpreliminar\elpollonpreliminar\bin\Debug\MetroFramework.Design.dll
+G:\elpollonpreliminar\elpollonpreliminar\bin\Debug\MetroFramework.dll
+G:\elpollonpreliminar\elpollonpreliminar\bin\Debug\MetroFramework.Fonts.dll
+G:\elpollonpreliminar\elpollonpreliminar\bin\Debug\Google.Protobuf.xml
+G:\elpollonpreliminar\elpollonpreliminar\bin\Debug\itextsharp.xml
+G:\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.Ordenar.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe.config
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.pdb
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Design.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.xml
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\itextsharp.xml
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csprojAssemblyReference.cache
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Form1.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Ordenar.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Properties.Resources.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.GenerateResource.cache
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CoreCompileInputs.cache
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CopyComplete
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.exe
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.pdb
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.empleados.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Clientes.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Inventario.resources
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe.config
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.pdb
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Design.dll
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.dll
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\bin\Debug\itextsharp.xml
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csprojAssemblyReference.cache
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Clientes.resources
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.empleados.resources
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Form1.resources
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Inventario.resources
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Ordenar.resources
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Properties.Resources.resources
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.GenerateResource.cache
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CopyComplete
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.exe
+C:\Users\Usuario 16\Desktop\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.pdb
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe.config
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.pdb
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Bunifu_UI_v1.52.dll
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.dll
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Design.dll
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.dll
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Fonts.dll
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.xml
+X:\elpollonpreliminar1\elpollonpreliminar\bin\Debug\itextsharp.xml
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csprojAssemblyReference.cache
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Clientes.resources
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.empleados.resources
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Form1.resources
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Inventario.resources
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Ordenar.resources
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Properties.Resources.resources
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.GenerateResource.cache
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CoreCompileInputs.cache
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CopyComplete
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.exe
+X:\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.pdb
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe.config
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.pdb
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Design.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.xml
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\bin\Debug\itextsharp.xml
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csprojAssemblyReference.cache
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Clientes.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.empleados.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Form1.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Inventario.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Ordenar.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Properties.Resources.resources
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.GenerateResource.cache
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CoreCompileInputs.cache
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CopyComplete
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.exe
+C:\Users\guzma\Desktop\elpollonpreliminar1\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.pdb
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe.config
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\elpollonpreliminar.pdb
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.dll
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\bin\Debug\itextsharp.xml
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csprojAssemblyReference.cache
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Clientes.resources
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.empleados.resources
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Form1.resources
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Inventario.resources
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Ordenar.resources
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.Properties.Resources.resources
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.GenerateResource.cache
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CopyComplete
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.exe
+C:\Users\user\Documents\pablo\elpollonpreliminar1\elpollonpreliminar\obj\Debug\elpollonpreliminar.pdb

@@ -21,9 +21,9 @@ namespace elpollonpreliminar
     {       
         public Ordenar()
         {
+            
             InitializeComponent();
-            s.populate(cbcovfd, "select * from almacen2 where complemento = '1'", "nombre");  
-           autocompletar();
+            s.dgrid(bunifuCustomDataGrid1, "select nombre,precio from almacen2 where complemento = 1");
             auto();
         }
         List<string> _items = new List<string>();
@@ -66,41 +66,14 @@ namespace elpollonpreliminar
             string nombre = p.getdata(query, "nombre");
             int price = int.Parse(s.getdata(query, "precio"));
             _ticket.DataSource = null;
-            _items.Add(nombre + "\t" + txtcantidad.Text + "  x\t " + (double.Parse(txtcantidad.Text) * price));
+            _items.Add(nombre + "\t" + txtcantidad.Text + "  x\t " +"$"+(double.Parse(txtcantidad.Text) * price));
             _precio.Add(int.Parse(txtcantidad.Text) * price);
             _cantidad.Add(int.Parse(txtcantidad.Text));
             _descripcion.Add(nombre);
             _ticket.DataSource = _items;
             lblprecio.Text = _precio.Sum().ToString();
         }
-        public void autocompletar()
-        {
-            cbcovfd.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
-            cbcovfd.AutoCompleteSource = AutoCompleteSource.CustomSource;
-            AutoCompleteStringCollection coll = new AutoCompleteStringCollection();
-            string cons = "Server=pruebastec.database.windows.net,1433;Initial Catalog=elpollon;Persist Security Info=False;" +
-                "User ID = alexis; Password=Azure1234567;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False;Connection Timeout=30;";
-            string query = "select * from almacen2 where complemento = '1'";
-            SqlConnection con = new SqlConnection(cons); 
-            SqlCommand cmd = new SqlCommand(query, con);
-            SqlDataReader reader;
-            try
-            {
-                con.Open();
-                reader = cmd.ExecuteReader();
-                while (reader.Read())
-                {
-                    string sName = reader.GetString(1);
-                  //  string stelefono = reader.GetString("telefono");
-                    coll.Add(sName);
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("ahhhh" + ex);
-            }
-            cbcovfd.AutoCompleteCustomSource = coll;
-        }
+       
 
 
         private void btnagregar_Click(object sender, EventArgs e)
@@ -164,7 +137,7 @@ namespace elpollonpreliminar
         private void btnadd_Click(object sender, EventArgs e)
         {
             
-            string query = string.Format("select * from almacen2 where nombre = '{0}'", cbcovfd.Text);
+            string query = string.Format("select * from almacen2 where nombre = '{0}'");
             int precio = int.Parse(s.getdata(query, "precio"));
             string des = s.getdata(query, "nombre");
             _ticket.DataSource = null;
@@ -176,12 +149,7 @@ namespace elpollonpreliminar
             lblprecio.Text = _precio.Sum().ToString();
         }
 
-        private void cbcovfd_SelectedIndexChanged(object sender, EventArgs e)
-        {
-     
-            s.descripcion(cbcovfd, lbldesdfs);
-
-        }
+      
      
 
         private void _ticket_SelectedIndexChanged(object sender, EventArgs e)
@@ -261,27 +229,30 @@ namespace elpollonpreliminar
             }
             txtsearch.AutoCompleteCustomSource = coll;
         }
-        public void selection()
-        {
+      
 
-            switch (cbcombos.SelectedIndex)
-            {
-                case 0:
-                    comboUno c = new comboUno();
-                lbldes.Text =  c.precio() +" "+ c.descripcion();
-                    break;
-                case 1:
-                    comboDos d = new comboDos();
-                    lbldes.Text = d.precio() + " " + d.descripcion();
-                    break;
-                case 2:
-                    break;
-            }
+       
+        private void btnhome_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FormProvider.MainMenu.Show();
         }
 
-        private void cbcombos_SelectedIndexChanged(object sender, EventArgs e)
+        private void bunifuCustomDataGrid1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            selection();
+            com();
+        }
+        public void com()
+        {
+            string des = bunifuCustomDataGrid1.CurrentRow.Cells[0].Value.ToString();
+           int precio = int.Parse(bunifuCustomDataGrid1.CurrentRow.Cells[1].Value.ToString());
+            _ticket.DataSource = null;
+            _precio.Add(int.Parse(txtcantidad.Text) * precio);
+            _cantidad.Add(int.Parse(txtcantidad.Text));
+            _descripcion.Add(des);
+            _items.Add(des + "\t \t" + txtcantidad.Text + "  x\t " +"$"+ (double.Parse(txtcantidad.Text) * precio));
+            _ticket.DataSource = _items;
+            lblprecio.Text = _precio.Sum().ToString();
         }
     }
 }
